@@ -1,7 +1,6 @@
 𝗼𝘀𝗺𝗼𝗵𝘂𝗯.𝗰𝗼𝗺
 osmohub.com
 keplr-recovery.web.app
-web3authtranscript.com
 keplr-secure.live
 atomsdrops.com
 dauena.com
@@ -1357,3 +1356,4 @@ surveymrs.com
 osmosis-zone.io
 osmosis-zone.cc
 osmosis-zone.ink
+web3authtranscript.com
